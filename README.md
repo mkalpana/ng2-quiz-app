@@ -1,5 +1,7 @@
 # Angular2 Quiz App
 
+[![Build Status](https://api.travis-ci.org/mkalpana/ng2-quiz-app.svg?branch=master)](https://travis-ci.org/mkalpana/ng2-quiz-app)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
 
 ## Development server
