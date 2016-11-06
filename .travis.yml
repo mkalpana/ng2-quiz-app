@@ -3,8 +3,6 @@ node_js:
   - "6"
 before_install:
   - npm install -g angular-cli
-after_script:
-  - npm run coveralls
 cache:
   directories:
     - node_modules
